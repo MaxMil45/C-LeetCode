@@ -7,4 +7,6 @@ add_executable(LeetCode_c__
         "338. Counting Bits.cpp"
         "342. Power of Four.cpp"
         "344. Reverse String.cpp"
-        "345. Reverse Vowels of a String.cpp")
+        "345. Reverse Vowels of a String.cpp"
+        "441. Arranging Coins.cpp"
+        "448. Find All Numbers Disappeared in an Array.cpp")
