@@ -12,4 +12,6 @@ add_executable(LeetCode_c__
         "448. Find All Numbers Disappeared in an Array.cpp"
         "461. Hamming Distance.cpp"
         "459. Repeated Substring Pattern.cpp"
-        "476. Number Complement.cpp")
+        "476. Number Complement.cpp"
+        "485. Max Consecutive Ones.cpp"
+        "492. Construct the Rectangle.cpp")
