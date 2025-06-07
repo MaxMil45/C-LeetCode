@@ -23,15 +23,15 @@ public:
     }
 };
 
-int main() {
-    Solution solution;
-    vector<int> nums = {1, 3, 4, 6, 7, 4};
-    vector<int> result = solution.findDisappearedNumbers(nums);
-
-    for (int num : result) {
-        cout << num << " ";
-    }
-    cout << endl;
-
-    return 0;
-}
+// int main() {
+//     Solution solution;
+//     vector<int> nums = {1, 3, 4, 6, 7, 4};
+//     vector<int> result = solution.findDisappearedNumbers(nums);
+//
+//     for (int num : result) {
+//         cout << num << " ";
+//     }
+//     cout << endl;
+//
+//     return 0;
+// }
