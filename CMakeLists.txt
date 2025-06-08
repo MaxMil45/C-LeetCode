@@ -14,4 +14,6 @@ add_executable(LeetCode_c__
         "459. Repeated Substring Pattern.cpp"
         "476. Number Complement.cpp"
         "485. Max Consecutive Ones.cpp"
-        "492. Construct the Rectangle.cpp")
+        "492. Construct the Rectangle.cpp"
+        "506. Relative Ranks.cpp"
+        "520. Detect Capital .cpp")

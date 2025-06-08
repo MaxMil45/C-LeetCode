@@ -115,6 +115,18 @@ build CMakeFiles/LeetCode_c__.dir/492._Construct_the_Rectangle.cpp.obj: CXX_COMP
   OBJECT_DIR = CMakeFiles\LeetCode_c__.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_c__.dir
 
+build CMakeFiles/LeetCode_c__.dir/506._Relative_Ranks.cpp.obj: CXX_COMPILER__LeetCode_c___unscanned_Debug C$:/Users/mmurp/LeetCode$ c++/506.$ Relative$ Ranks.cpp || cmake_object_order_depends_target_LeetCode_c__
+  DEP_FILE = CMakeFiles\LeetCode_c__.dir\506._Relative_Ranks.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LeetCode_c__.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_c__.dir
+
+build CMakeFiles/LeetCode_c__.dir/520._Detect_Capital_.cpp.obj: CXX_COMPILER__LeetCode_c___unscanned_Debug C$:/Users/mmurp/LeetCode$ c++/520.$ Detect$ Capital$ .cpp || cmake_object_order_depends_target_LeetCode_c__
+  DEP_FILE = CMakeFiles\LeetCode_c__.dir\520._Detect_Capital_.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LeetCode_c__.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_c__.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_c__
@@ -123,7 +135,7 @@ build CMakeFiles/LeetCode_c__.dir/492._Construct_the_Rectangle.cpp.obj: CXX_COMP
 #############################################
 # Link the executable LeetCode_c__.exe
 
-build LeetCode_c__.exe: CXX_EXECUTABLE_LINKER__LeetCode_c___Debug CMakeFiles/LeetCode_c__.dir/338._Counting_Bits.cpp.obj CMakeFiles/LeetCode_c__.dir/342._Power_of_Four.cpp.obj CMakeFiles/LeetCode_c__.dir/344._Reverse_String.cpp.obj CMakeFiles/LeetCode_c__.dir/345._Reverse_Vowels_of_a_String.cpp.obj CMakeFiles/LeetCode_c__.dir/441._Arranging_Coins.cpp.obj CMakeFiles/LeetCode_c__.dir/448._Find_All_Numbers_Disappeared_in_an_Array.cpp.obj CMakeFiles/LeetCode_c__.dir/461._Hamming_Distance.cpp.obj CMakeFiles/LeetCode_c__.dir/459._Repeated_Substring_Pattern.cpp.obj CMakeFiles/LeetCode_c__.dir/476._Number_Complement.cpp.obj CMakeFiles/LeetCode_c__.dir/485._Max_Consecutive_Ones.cpp.obj CMakeFiles/LeetCode_c__.dir/492._Construct_the_Rectangle.cpp.obj
+build LeetCode_c__.exe: CXX_EXECUTABLE_LINKER__LeetCode_c___Debug CMakeFiles/LeetCode_c__.dir/338._Counting_Bits.cpp.obj CMakeFiles/LeetCode_c__.dir/342._Power_of_Four.cpp.obj CMakeFiles/LeetCode_c__.dir/344._Reverse_String.cpp.obj CMakeFiles/LeetCode_c__.dir/345._Reverse_Vowels_of_a_String.cpp.obj CMakeFiles/LeetCode_c__.dir/441._Arranging_Coins.cpp.obj CMakeFiles/LeetCode_c__.dir/448._Find_All_Numbers_Disappeared_in_an_Array.cpp.obj CMakeFiles/LeetCode_c__.dir/461._Hamming_Distance.cpp.obj CMakeFiles/LeetCode_c__.dir/459._Repeated_Substring_Pattern.cpp.obj CMakeFiles/LeetCode_c__.dir/476._Number_Complement.cpp.obj CMakeFiles/LeetCode_c__.dir/485._Max_Consecutive_Ones.cpp.obj CMakeFiles/LeetCode_c__.dir/492._Construct_the_Rectangle.cpp.obj CMakeFiles/LeetCode_c__.dir/506._Relative_Ranks.cpp.obj CMakeFiles/LeetCode_c__.dir/520._Detect_Capital_.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_c__.dir
