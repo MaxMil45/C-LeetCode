@@ -64,7 +64,10 @@
 				9,
 				10,
 				11,
-				12
+				12,
+				13,
+				14,
+				15
 			]
 		}
 	],
@@ -113,7 +116,10 @@
 				9,
 				10,
 				11,
-				12
+				12,
+				13,
+				14,
+				15
 			]
 		}
 	],
@@ -195,6 +201,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "520. Detect Capital .cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "709. To Lower Case.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "717. 1-bit and 2-bit Characters.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "628. Maximum Product of Three Numbers.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

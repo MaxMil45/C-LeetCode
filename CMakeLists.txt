@@ -16,4 +16,7 @@ add_executable(LeetCode_c__
         "485. Max Consecutive Ones.cpp"
         "492. Construct the Rectangle.cpp"
         "506. Relative Ranks.cpp"
-        "520. Detect Capital .cpp")
+        "520. Detect Capital .cpp"
+        "709. To Lower Case.cpp"
+        "717. 1-bit and 2-bit Characters.cpp"
+        "628. Maximum Product of Three Numbers.cpp")
