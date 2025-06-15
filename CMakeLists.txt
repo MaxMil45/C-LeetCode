@@ -19,4 +19,8 @@ add_executable(LeetCode_c__
         "520. Detect Capital .cpp"
         "709. To Lower Case.cpp"
         "717. 1-bit and 2-bit Characters.cpp"
-        "628. Maximum Product of Three Numbers.cpp")
+        "628. Maximum Product of Three Numbers.cpp"
+        "605. Can Place Flowers.cpp"
+        "561. Array Partition.cpp"
+        "563. Binary Tree Tilt.cpp"
+        "566. Reshape the Matrix.cpp")
