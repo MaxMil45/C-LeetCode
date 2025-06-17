@@ -23,4 +23,6 @@ add_executable(LeetCode_c__
         "605. Can Place Flowers.cpp"
         "561. Array Partition.cpp"
         "563. Binary Tree Tilt.cpp"
-        "566. Reshape the Matrix.cpp")
+        "566. Reshape the Matrix.cpp"
+        "724. Find Pivot Index.cpp"
+        "746. Min Cost Climbing Stairs.cpp")
