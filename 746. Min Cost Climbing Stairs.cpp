@@ -23,12 +23,12 @@ public:
     }
 };
 
-int main() {
-    Solution s;
-    vector<int> cost = {10, 15, 20};
-
-    int money = s.minCostClimbingStairs(cost);
-
-    cout << money << endl;
-    return 0;
-}
+// int main() {
+//     Solution s;
+//     vector<int> cost = {10, 15, 20};
+//
+//     int money = s.minCostClimbingStairs(cost);
+//
+//     cout << money << endl;
+//     return 0;
+// }

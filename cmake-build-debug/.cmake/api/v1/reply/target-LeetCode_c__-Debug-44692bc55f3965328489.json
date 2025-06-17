@@ -73,7 +73,9 @@
 				18,
 				19,
 				20,
-				21
+				21,
+				22,
+				23
 			]
 		}
 	],
@@ -131,7 +133,9 @@
 				18,
 				19,
 				20,
-				21
+				21,
+				22,
+				23
 			]
 		}
 	],
@@ -267,6 +271,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "746. Min Cost Climbing Stairs.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "69. Sqrt(x).cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "88. Merge Sorted Array.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

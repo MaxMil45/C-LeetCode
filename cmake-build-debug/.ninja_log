@@ -3,9 +3,9 @@
 9	347	7704327214427339	CMakeFiles/LeetCode_c__.dir/main.cpp.obj	3522c81ec97220ed
 18	351	7710183355275514	CMakeFiles/LeetCode_c__.dir/459._Repeated_Substring_Pattern.cpp.obj	f8daea6884801e03
 82	798	7707750866028342	CMakeFiles/LeetCode_c__.dir/342._Power_of_Four.cpp.obj	27784dd7779e29a2
-668	1530	7718498955813142	LeetCode_c__.exe	70f5bdc8380f7cd7
+556	710	7718890815879936	LeetCode_c__.exe	5368c296c138af7
 38	495	7711712253219035	CMakeFiles/LeetCode_c__.dir/520._Detect_Capital_.cpp.obj	d959fc7978d8362f
-2	325	7718502707747368	build.ninja	2553ebd3c59e85a5
+2	325	7718892337219215	build.ninja	2553ebd3c59e85a5
 68	708	7708615270214741	CMakeFiles/LeetCode_c__.dir/345._Reverse_Vowels_of_a_String.cpp.obj	b061f6502834abef
 29	526	7708636100287108	CMakeFiles/LeetCode_c__.dir/441._Arranging_Coins.cpp.obj	18997836d25e95e1
 24	588	7707760134755018	CMakeFiles/LeetCode_c__.dir/344._Reverse_String.cpp.obj	a8b97ca17fe06d84
@@ -22,9 +22,9 @@
 27	571	7717097955927095	CMakeFiles/LeetCode_c__.dir/605._Can_Place_Flowers.cpp.obj	e410172643cd0d5
 35	679	7717097956007112	CMakeFiles/LeetCode_c__.dir/561._Array_Partition.cpp.obj	f8ba829a5e05a945
 19	585	7718498949327723	CMakeFiles/LeetCode_c__.dir/566._Reshape_the_Matrix.cpp.obj	a830475b8c70ebdb
-27	667	7718498949407665	CMakeFiles/LeetCode_c__.dir/724._Find_Pivot_Index.cpp.obj	79f0a00686e83b87
 83	786	7718511107982961	CMakeFiles/LeetCode_c__.dir/724._Find_Pivot_Index.cpp.obj	79f0a00686e83b87
-90	805	7718511108053033	CMakeFiles/LeetCode_c__.dir/746._Min_Cost_Climbing_Stairs.cpp.obj	78eaa97f72e75829
-805	1376	7718511115197530	LeetCode_c__.exe	a6cb169d2c2a3ace
-21	636	7718512147411045	CMakeFiles/LeetCode_c__.dir/746._Min_Cost_Climbing_Stairs.cpp.obj	78eaa97f72e75829
-637	817	7718512153568733	LeetCode_c__.exe	a6cb169d2c2a3ace
+32	592	7718890600422187	CMakeFiles/LeetCode_c__.dir/746._Min_Cost_Climbing_Stairs.cpp.obj	78eaa97f72e75829
+26	556	7718890810574142	CMakeFiles/LeetCode_c__.dir/69._Sqrt(x).cpp.obj	8d5bc7278aea638f
+58	747	7718899059035639	CMakeFiles/LeetCode_c__.dir/69._Sqrt(x).cpp.obj	8d5bc7278aea638f
+65	778	7718899059108205	CMakeFiles/LeetCode_c__.dir/88._Merge_Sorted_Array.cpp.obj	a88058171d72a287
+778	1015	7718899066227882	LeetCode_c__.exe	2036fe10df7e9187

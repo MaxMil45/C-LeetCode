@@ -25,4 +25,6 @@ add_executable(LeetCode_c__
         "563. Binary Tree Tilt.cpp"
         "566. Reshape the Matrix.cpp"
         "724. Find Pivot Index.cpp"
-        "746. Min Cost Climbing Stairs.cpp")
+        "746. Min Cost Climbing Stairs.cpp"
+        "69. Sqrt(x).cpp"
+        "88. Merge Sorted Array.cpp")
