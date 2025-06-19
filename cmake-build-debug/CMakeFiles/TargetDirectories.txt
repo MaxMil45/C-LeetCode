@@ -1,3 +1,3 @@
-C:/Users/mmurp/LeetCode c++/cmake-build-debug/CMakeFiles/LeetCode_c__.dir
-C:/Users/mmurp/LeetCode c++/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mmurp/LeetCode c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mmurp/C-LeetCode/cmake-build-debug/CMakeFiles/LeetCode_c__.dir
+C:/Users/mmurp/C-LeetCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mmurp/C-LeetCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

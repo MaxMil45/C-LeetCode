@@ -154,8 +154,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/mmurp/LeetCode c++/cmake-build-debug",
-		"source" : "C:/Users/mmurp/LeetCode c++"
+		"build" : "C:/Users/mmurp/C-LeetCode/cmake-build-debug",
+		"source" : "C:/Users/mmurp/C-LeetCode"
 	},
 	"version" : 
 	{
